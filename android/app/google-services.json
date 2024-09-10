@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695765407026",
+    "project_id": "lista-de-tarefas-firebase",
+    "storage_bucket": "lista-de-tarefas-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695765407026:android:55561a29f7bdf4a961b32b",
+        "android_client_info": {
+          "package_name": "br.com.fatecitapira.lista_tarefas_firebase_2024_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBai994kla18_WJy70EEyVprOJzIrgQU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
