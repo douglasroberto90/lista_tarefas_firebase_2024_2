@@ -48,7 +48,7 @@ class _HomePageState extends State<HomePage> {
                     onPressed: () async {
                       if (controllerTarefa.text.isNotEmpty) {
                         Tarefa tarefa = await Repositorio.adicionarTarefa(
-                            Tarefa(nome: controllerTarefa.text, 
+                            Tarefa(nome: controllerTarefa.text,
                             realizado: false));
                         setState(() {
                           tarefas.add(tarefa);
