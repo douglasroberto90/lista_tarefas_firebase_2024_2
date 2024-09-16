@@ -10,6 +10,7 @@
 .svn/
 migrate_working_dir/
 
+
 # IntelliJ related
 *.iml
 *.ipr
@@ -30,6 +31,10 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+
+#Firebase
+firebase.json
+/lib/firebase_options.dart
 
 # Symbolication related
 app.*.symbols
